@@ -1,0 +1,16 @@
+
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+slowapi
+langchain-core
+langchain-community
+langchain-classic
+langchain-groq
+langchain-huggingface
+sentence-transformers
+faiss-cpu
+presidio-analyzer
+presidio-anonymizer
+spacy
